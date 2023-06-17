@@ -1,0 +1,4 @@
+#!/usr/bin/env ace
+org:
+  name: $name
+  website: https://$org

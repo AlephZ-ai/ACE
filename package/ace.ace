@@ -1,6 +1,0 @@
-
-#!/usr/bin/env ace
-name=ACE
-x=AlephZ.ai
-org.website=https://$org
-org.github=$org/$ACE
