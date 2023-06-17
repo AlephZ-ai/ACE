@@ -1,0 +1,3 @@
+#!/usr/bin/env ace
+org=AlephZ.ai
+org.website=$org
